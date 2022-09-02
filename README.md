@@ -37,7 +37,7 @@ What will your team do if one person is taking over the project and not letting 
     How and when will you escalate the conflict if your resolution attempts are unsuccessful?  
     Assuming an agreement is not able to be made. It willbe up to the other group members to come to a decision on what to do.  
     
-    ## Communication Plan  
+   ## Communication Plan  
     
     What hours will you be available to communicate?  
     
@@ -57,7 +57,7 @@ What will your team do if one person is taking over the project and not letting 
     What project management tool will be used?  
     Trello and Whiteboard software as a last resort.  
     
-    ## Git process  
+   ## Git process  
     
     
     What components of your project will live on GitHub?  
